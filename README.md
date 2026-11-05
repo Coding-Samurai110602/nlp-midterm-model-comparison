@@ -124,7 +124,7 @@ Early layers focus on the last 2–6 characters, which is enough for spelling. T
 
 ## 8. How did I use AI responsibly?
 
-I used Claude (Anthropic) throughout the project, and the details are in [`ai_use_summary.md`](ai_use_summary.md). In short, Claude wrote the code, the explanations, and the analysis. I set up the environment, ran all training and experiments, debugged setup and disk-space problems, and reviewed the results. All numbers in this README come from my own training runs.
+I used Claude (Anthropic) throughout the project, and the details are in `ai_use_summary.md`. In short, Claude helped me plan the project, explained how the Bigram, LSTM, and Transformer models work, reviewed my code and helped me fix errors, wrote this README, and helped me edit my notes for the "My own understanding" section. I wrote all of the code, set up the environment, ran all training and experiments, debugged setup and disk-space problems, and wrote the analysis of my results. All numbers in this README come from my own training runs.
 
 ## Final Reflection
 
